@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/new_wave_recovery/static/css/main.8c72e88b.css",
+    "main.js": "/new_wave_recovery/static/js/main.e78ad96a.js",
+    "static/media/hero2.jpg": "/new_wave_recovery/static/media/hero2.a30a3d8ff3ccd908f493.jpg",
+    "static/media/treatment-2.jpg": "/new_wave_recovery/static/media/treatment-2.e9bc74dc2acb65f4d66c.jpg",
+    "static/media/treatment-3.jpg": "/new_wave_recovery/static/media/treatment-3.186527d3fa03228ae90d.jpg",
+    "static/media/card4.jpg": "/new_wave_recovery/static/media/card4.c7e4f1dd62100f71b493.jpg",
+    "static/media/citrus-retreat1-min.png": "/new_wave_recovery/static/media/citrus-retreat1-min.ff95d19c5f681481d7c2.png",
+    "static/media/servicesSection1-min.jpg": "/new_wave_recovery/static/media/servicesSection1-min.6f5adfc8add879949317.jpg",
+    "static/media/card3.jpg": "/new_wave_recovery/static/media/card3.e7a92c385505ba58f1b9.jpg",
+    "static/media/card1.jpg": "/new_wave_recovery/static/media/card1.592f255ac29c806db91e.jpg",
+    "static/media/menu-bg-contact.jpg": "/new_wave_recovery/static/media/menu-bg-contact.c2e16482f83e3957ca6e.jpg",
+    "static/media/bg1.jpg": "/new_wave_recovery/static/media/bg1.9548ae59ebd31a1725f5.jpg",
+    "static/media/card2.jpg": "/new_wave_recovery/static/media/card2.1f73942ff83bfe398cb3.jpg",
+    "static/media/menu-bg-sober-living.webp": "/new_wave_recovery/static/media/menu-bg-sober-living.4cf9b06d762f25132e8f.webp",
+    "static/media/detroit3-min.jpg": "/new_wave_recovery/static/media/detroit3-min.3377ebb390133290e969.jpg",
+    "static/media/treatment-1.webp": "/new_wave_recovery/static/media/treatment-1.beedddf7366a851e5728.webp",
+    "static/media/bg.jpg": "/new_wave_recovery/static/media/bg.9f0a2d92df7dd0a9491b.jpg",
+    "static/media/card5.jpg": "/new_wave_recovery/static/media/card5.8fa4a8405e59394e84e2.jpg",
+    "static/media/missionSection1.webp": "/new_wave_recovery/static/media/missionSection1.a140c1565c8b9c08b815.webp",
+    "static/media/missionHome.webp": "/new_wave_recovery/static/media/missionHome.334f987453f11f600e21.webp",
+    "static/media/hero1.webp": "/new_wave_recovery/static/media/hero1.842080d6960bd5e2573b.webp",
+    "static/media/whatwedo1.webp": "/new_wave_recovery/static/media/whatwedo1.70c1666d9dba2618ee4e.webp",
+    "static/media/menu-bg-huntington-beach-min.webp": "/new_wave_recovery/static/media/menu-bg-huntington-beach-min.710bdd8009ed86049b49.webp",
+    "static/media/nav-logo-bl.png": "/new_wave_recovery/static/media/nav-logo-bl.adff82d3da90856c2f99.png",
+    "static/media/career.webp": "/new_wave_recovery/static/media/career.75ffd263e8abfccdf8d7.webp",
+    "static/media/nav-logo.png": "/new_wave_recovery/static/media/nav-logo.b446261424cde831761e.png",
+    "static/media/menu-bg-mission.jpg": "/new_wave_recovery/static/media/menu-bg-mission.780c0ecf53ed3820340a.jpg",
+    "static/media/venice-retreat1.webp": "/new_wave_recovery/static/media/venice-retreat1.315e447e2bfff34dffa0.webp",
+    "static/media/menu-bg-west-hollywood.webp": "/new_wave_recovery/static/media/menu-bg-west-hollywood.d4e814944db36cc28e39.webp",
+    "index.html": "/new_wave_recovery/index.html",
+    "main.8c72e88b.css.map": "/new_wave_recovery/static/css/main.8c72e88b.css.map",
+    "main.e78ad96a.js.map": "/new_wave_recovery/static/js/main.e78ad96a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c72e88b.css",
+    "static/js/main.e78ad96a.js"
+  ]
+}
