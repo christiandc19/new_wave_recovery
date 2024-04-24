@@ -15,7 +15,7 @@ const Topbar = () => {
                 </div>
 
                 <div className='email bar-box2 top-hide'>
-                    <p><span><FiMail />&nbsp;</span> info@55silver.biz</p>
+                    <p><span><FiMail />&nbsp;</span> info@NewWaveRecovery.net</p>
                 </div>
 
                 <div className='number bar-box3'>

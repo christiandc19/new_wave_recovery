@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { FaBars, FaTimes } from 'react-icons/fa'
 import {NavLink, Link} from 'react-router-dom'
-import logo from '../../assets/nav-logo-bl.png'
+// import logo from '../../assets/nav-logo-bl.png'
 import {AiOutlineCaretDown } from "react-icons/ai";
 import Topbar from '../../components/topbar/Topbar'
 
@@ -49,9 +49,10 @@ const Navbar = () => {
             <div className="navbar-container">
                 
                  <div className="navbar-logo">
-                    <Link to='/'>
-                    <img src={logo} alt="55 Silver Logo" loading="lazy"/>
-                    </Link>
+                    <h1>NEW WAVE RECOVERY</h1>
+                    {/* <Link to='/'>
+                    <img src={logo} alt="New Wave Recovery Logo" loading="lazy"/>
+                    </Link> */}
                 </div>
 
                 <ul className={nav ? 'nav-menu active' : 'nav-menu'}>
@@ -59,31 +60,37 @@ const Navbar = () => {
                     
                     <li onClick={toggleSubmenu} className="menu-item sub__menus__arrows" >ADDICTION <AiOutlineCaretDown />
                         <ul className={boxClassSubMenu.join(' ')} id='submenu-item'> 
-                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/north-citrus`}> North Citrus, Los Angeles </NavLink> </li>
-                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/north-detroit`}> North Detroit, Los Angeles</NavLink> </li>
-                            <li><NavLink onClick={toggleClass} activeClassName='is-active' to={`/huntington-beach`}> Huntington Beach </NavLink> </li>
-                            <li><NavLink onClick={toggleClass} activeClassName='is-active' to={`/west-hollywood`}> West Hollywood </NavLink> </li>
-                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/venice`}> Venice </NavLink> </li>
+                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/alcohol`}> Alcohol Addiction </NavLink> </li>
+                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/cocaine`}> Cocaine Addiction</NavLink> </li>
+                            <li><NavLink onClick={toggleClass} activeClassName='is-active' to={`/fentanyl`}> Fentanyl Addiction </NavLink> </li>
+                            <li><NavLink onClick={toggleClass} activeClassName='is-active' to={`/heroin`}> Heroin Addiction </NavLink> </li>
+                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/kratom`}> Kratom Addiction </NavLink> </li>
                         </ul>
                     </li>
 
                     <li onClick={toggleSubmenu} className="menu-item sub__menus__arrows" >MENTAL HEALTH <AiOutlineCaretDown />
                         <ul className={boxClassSubMenu.join(' ')} id='submenu-item'> 
-                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/north-citrus`}> North Citrus, Los Angeles </NavLink> </li>
-                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/north-detroit`}> North Detroit, Los Angeles</NavLink> </li>
-                            <li><NavLink onClick={toggleClass} activeClassName='is-active' to={`/huntington-beach`}> Huntington Beach </NavLink> </li>
-                            <li><NavLink onClick={toggleClass} activeClassName='is-active' to={`/west-hollywood`}> West Hollywood </NavLink> </li>
-                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/venice`}> Venice </NavLink> </li>
+                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/acute-stress-disorder`}> ACUTE STRESS DISORDER </NavLink> </li>
+                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/adhd`}> ADHD</NavLink> </li>
+                            <li><NavLink onClick={toggleClass} activeClassName='is-active' to={`/anger-disorder`}> ANGER DISORDER </NavLink> </li>
+                            <li><NavLink onClick={toggleClass} activeClassName='is-active' to={`/anxiety`}> ANXIETY DISORDER </NavLink> </li>
+                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/bipolar-disorder`}> BIPOLAR DISORDER </NavLink> </li>
+                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/depression`}> DEPRESSION </NavLink> </li>
+                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/panic-disorder`}> PANIC DISORDER </NavLink> </li>
+                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/ptsd`}> PTSD </NavLink> </li>
+                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/schizophrenia`}> SCHIZOAFFECTIVE DISORDER </NavLink> </li>
                         </ul>
                     </li>
 
-                    <li onClick={toggleSubmenu} className="menu-item sub__menus__arrows" >DETOX <AiOutlineCaretDown />
+                    <li onClick={toggleSubmenu} className="menu-item sub__menus__arrows" >DETOX PROGRAMS <AiOutlineCaretDown />
                         <ul className={boxClassSubMenu.join(' ')} id='submenu-item'> 
-                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/north-citrus`}> North Citrus, Los Angeles </NavLink> </li>
-                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/north-detroit`}> North Detroit, Los Angeles</NavLink> </li>
-                            <li><NavLink onClick={toggleClass} activeClassName='is-active' to={`/huntington-beach`}> Huntington Beach </NavLink> </li>
-                            <li><NavLink onClick={toggleClass} activeClassName='is-active' to={`/west-hollywood`}> West Hollywood </NavLink> </li>
-                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/venice`}> Venice </NavLink> </li>
+                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/detox-heroin`}> Heroin Detox </NavLink> </li>
+                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/detox-alcohol`}> Alcohol Detox</NavLink> </li>
+                            <li><NavLink onClick={toggleClass} activeClassName='is-active' to={`/detox-cocaine`}> Cocaine Detox </NavLink> </li>
+                            <li><NavLink onClick={toggleClass} activeClassName='is-active' to={`/detox-adderall`}> Adderall Detox </NavLink> </li>
+                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/detox-benzodiazepines`}> Benzodiazepines </NavLink> </li>
+                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/detox-methamphetamine`}> Methamphetamine </NavLink> </li>
+                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/detox-marijuana`}> Marijuana Detox </NavLink> </li>
                         </ul>
                     </li>
 

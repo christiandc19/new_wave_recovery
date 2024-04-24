@@ -15,7 +15,7 @@ const Whoweare = () => {
         <div className="homeSection2-content container">
           <div className="homeSection2-left">
             <Fade left>
-            <h1>WHY CHOOSE 55 SILVER</h1>
+            <h1>WHY CHOOSE NEW WAVE RECOVERY</h1>
             </Fade>
 
             <Fade right>

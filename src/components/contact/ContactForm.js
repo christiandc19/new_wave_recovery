@@ -97,7 +97,7 @@ const ContactForm = () => {
                 <input type="submit" value="Submit" />
 
                 <div className="textarea2 feedback hidden">
-              <textarea name="message2" cols="30" rows="3" required>Message Sent to 55 Silver!</textarea>
+              <textarea name="message2" cols="30" rows="3" required>Message Sent to New Wave Recovery!</textarea>
               </div>
 
               </div>

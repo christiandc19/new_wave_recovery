@@ -1,0 +1,168 @@
+
+.slider-bg {
+    width: 100%;
+    height: auto;
+    position: relative;
+    background: rgba(0, 0, 0, 0.63);
+  }
+  
+  .slider-bg:before {
+    content: '';
+    position: absolute;
+    background: url('../../assets/sober-living-section.webp') no-repeat center center/cover;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    /* opacity: 0.5; */
+  }
+
+
+  .image-slider-header {
+    text-align: center;
+    width: 70%;
+    padding: 2rem 1rem 0 1rem;
+  }
+
+  .image-slider-header h1 {
+    text-transform: uppercase;
+    font-size: 1.2rem;
+    padding: .5rem 0;
+    color: white;
+  }
+
+  .image-slider-header p {
+    color: rgba(255, 255, 255, 0.719);
+    font-size: 14px;
+  }
+
+.image-slider-flex {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    padding: 3rem 0 2rem 0;
+}
+
+.image-slider-right {
+    margin: auto;
+    width: 50%;
+    padding: 1rem;
+}
+
+.image-slider-right h1 {
+  text-transform: uppercase;
+  font-size: 1.2rem;
+  padding: .5rem 0;
+  color: white;
+}
+
+.image-slider-right p {
+    font-size: 14px;
+    text-align: justify;
+    color: rgba(255, 255, 255, 0.719);
+}
+
+.image-slider {
+    width: 500px;
+    position: relative;
+    margin: auto;
+    overflow: hidden;
+    padding: .5rem;
+  }
+
+  .image-slider img {
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0px -2px 20px -1px rgba(255, 255, 255, 0.400);
+    -webkit-box-shadow: 0px -2px 20px -1px rgba(255, 255, 255, 0.400);
+    -moz-box-shadow: 0px -2px 20px -1px rgba(255, 255, 255, 0.400);
+    padding: .1rem;
+    background-color: white;
+  
+  }
+
+  .image-slider .arrow {
+    font-size: 1.5rem;
+    padding: 1rem;
+    color: orange;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+  }
+
+  .image-slider .arrow:hover {
+    color: white;
+  }
+
+    .slider-btn button {
+    padding: .4rem 1.5rem;
+  }
+
+  .slider-btn button:hover {
+    background-color: white;
+    border-color: white;
+    color: var(--secondary-color);
+  }
+
+.image-slider-right ul {
+  padding-left: 0;
+  color: rgba(255, 255, 255, 0.719);
+}
+
+
+
+.slider-footer {
+  text-align: center;
+  padding-bottom: 1rem;
+}
+
+.slider-footer h1 {
+  font-size: 1.5rem;
+  color: white;
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;  
+  font-weight: 300;
+  letter-spacing: 2px;
+}
+
+
+  @media screen and (max-width:940px) {
+    .image-slider-flex {
+        flex-wrap: wrap;
+    }
+    .image-slider-right {
+        width: 100%;
+    }
+
+    .image-slider-right h1 {
+        text-align: center;
+    }
+
+    .image-slider-right p {
+        text-align: justify;
+    }
+
+
+      .slider-btn {
+        text-align: center;
+      }
+
+      .image-slider-header {
+        width: 100%;
+      }
+      
+      .image-slider {
+        width: 90%;
+      }
+
+  }
+
+
+  @media screen and (max-width:600px) {
+
+
+    .image-slider {
+      width: 100%;
+    }
+  }

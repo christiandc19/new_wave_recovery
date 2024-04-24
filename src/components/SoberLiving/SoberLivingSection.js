@@ -29,7 +29,7 @@ const SoberLivingSection = () => {
 
             <Fade left>
             <p>
-            Structured, on-site community support with group sessions, one-on-one counseling and all from the comfort of home. Check out a full breakdown of our sober living services now here. A strong support system is how you move forward with your recovery. Especially if your world on the outside includes the ongoing presence of drugs and alcohol that could trigger a relapse, a closely monitored approach to recovery could be the right path for you. <br/> <br/> At 55 Silver, stay as long as you need to become your best self. Our sober living homes feature upscale furnishings and amenities, with support of round-the-clock staff to help you realize your full potential. Explore all our locations now.
+            Structured, on-site community support with group sessions, one-on-one counseling and all from the comfort of home. Check out a full breakdown of our sober living services now here. A strong support system is how you move forward with your recovery. Especially if your world on the outside includes the ongoing presence of drugs and alcohol that could trigger a relapse, a closely monitored approach to recovery could be the right path for you. <br/> <br/> At New Wave Recovery, stay as long as you need to become your best self. Our sober living homes feature upscale furnishings and amenities, with support of round-the-clock staff to help you realize your full potential. Explore all our locations now.
             </p>
             </Fade>
 
@@ -183,7 +183,7 @@ const SoberLivingSection = () => {
     </div>
     <div>
       <p>
-        Aftercare Support: — 55 Silver offers a wide range of aftercare programs and support groups to help individuals maintain their recovery and continue their progress even after leaving the sober living environment.
+        Aftercare Support: — New Wave Recovery offers a wide range of aftercare programs and support groups to help individuals maintain their recovery and continue their progress even after leaving the sober living environment.
       </p><br />
     </div>
   </Fade>
@@ -213,13 +213,13 @@ const SoberLivingSection = () => {
 
           <div className="soberLivingSection-left">
             <Fade left>
-            <h1>BENEFITS OF 55 SILVER SOBER LIVING</h1>
+            <h1>BENEFITS OF NEW WAVE RECOVERY SOBER LIVING</h1>
             </Fade>
 
 
             <Fade left>
             <p>
-            We believe that no one should have to go through the early stages of recovery alone. 9 Silver housing provides a safe space to facilitate reintegration back into the world as a sober member of society. Enjoy a comfortable and stable living situation with 55 Silver while you pick up the pieces and build a new life for yourself. Here’s what you can expect from your time at one of our sober living homes:
+            We believe that no one should have to go through the early stages of recovery alone. 9 Silver housing provides a safe space to facilitate reintegration back into the world as a sober member of society. Enjoy a comfortable and stable living situation with New Wave Recovery while you pick up the pieces and build a new life for yourself. Here’s what you can expect from your time at one of our sober living homes:
             </p>
             </Fade>
 

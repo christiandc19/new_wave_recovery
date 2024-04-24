@@ -3,8 +3,9 @@ import ServicesSection from '../services/ServicesSection';
 // import WhatWeDo from '../whatWeDo/Whatwedo';
 import Whoweare from '../Whoweare/Whoweare'
 import ContactForm from '../contact/ContactForm';
-import Gallery from '../gallery/Gallery';
+// import Gallery from '../gallery/Gallery';
 import AboutHome from '../about/AboutHome';
+import Section4 from '../section4/Section4';
 
 
 
@@ -14,7 +15,8 @@ const home = () => {
     <>
     {/* <WhatWeDo /> */}
     <Whoweare />
-    <Gallery />
+    <Section4 />
+    {/* <Gallery /> */}
     <ServicesSection />
     <AboutHome />
     <ContactForm />
