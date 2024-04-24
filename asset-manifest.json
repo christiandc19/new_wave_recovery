@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/new_wave_recovery/static/css/main.5cedfe62.css",
-    "main.js": "/new_wave_recovery/static/js/main.b882e73e.js",
+    "main.css": "/new_wave_recovery/static/css/main.7f8267b5.css",
+    "main.js": "/new_wave_recovery/static/js/main.7b20a5c8.js",
     "static/media/hero2.jpg": "/new_wave_recovery/static/media/hero2.a30a3d8ff3ccd908f493.jpg",
     "static/media/treatment-2.jpg": "/new_wave_recovery/static/media/treatment-2.e9bc74dc2acb65f4d66c.jpg",
     "static/media/detox-section1.webp": "/new_wave_recovery/static/media/detox-section1.2f4c946120939c339d3b.webp",
@@ -10,7 +10,6 @@
     "static/media/citrus-retreat1-min.png": "/new_wave_recovery/static/media/citrus-retreat1-min.ff95d19c5f681481d7c2.png",
     "static/media/servicesSection1-min.jpg": "/new_wave_recovery/static/media/servicesSection1-min.6f5adfc8add879949317.jpg",
     "static/media/benzo-section1.webp": "/new_wave_recovery/static/media/benzo-section1.a3c0d726d7a2cf33356b.webp",
-    "static/media/menu-bg-contact.jpg": "/new_wave_recovery/static/media/menu-bg-contact.c2e16482f83e3957ca6e.jpg",
     "static/media/detox-cocaine-bg.webp": "/new_wave_recovery/static/media/detox-cocaine-bg.39aa8272129383288a68.webp",
     "static/media/sober-living-section.webp": "/new_wave_recovery/static/media/sober-living-section.882fc991135bff657bbe.webp",
     "static/media/bg1.jpg": "/new_wave_recovery/static/media/bg1.9548ae59ebd31a1725f5.jpg",
@@ -31,6 +30,7 @@
     "static/media/hero1.webp": "/new_wave_recovery/static/media/hero1.842080d6960bd5e2573b.webp",
     "static/media/whatwedo1.webp": "/new_wave_recovery/static/media/whatwedo1.70c1666d9dba2618ee4e.webp",
     "static/media/menu-bg-huntington-beach-min.webp": "/new_wave_recovery/static/media/menu-bg-huntington-beach-min.710bdd8009ed86049b49.webp",
+    "static/media/menu-bg-contact.webp": "/new_wave_recovery/static/media/menu-bg-contact.4a7b71bee0cd85ea697b.webp",
     "static/media/huntington1.webp": "/new_wave_recovery/static/media/huntington1.b4435571b2faff26bc3d.webp",
     "static/media/alcohol-detox1.webp": "/new_wave_recovery/static/media/alcohol-detox1.3e7120b77f4ae5b77553.webp",
     "static/media/career.webp": "/new_wave_recovery/static/media/career.75ffd263e8abfccdf8d7.webp",
@@ -46,11 +46,11 @@
     "static/media/section-bg.webp": "/new_wave_recovery/static/media/section-bg.04ee09a2498cd9680dac.webp",
     "static/media/huntington2.webp": "/new_wave_recovery/static/media/huntington2.43d9ae1db46c535bd41c.webp",
     "index.html": "/new_wave_recovery/index.html",
-    "main.5cedfe62.css.map": "/new_wave_recovery/static/css/main.5cedfe62.css.map",
-    "main.b882e73e.js.map": "/new_wave_recovery/static/js/main.b882e73e.js.map"
+    "main.7f8267b5.css.map": "/new_wave_recovery/static/css/main.7f8267b5.css.map",
+    "main.7b20a5c8.js.map": "/new_wave_recovery/static/js/main.7b20a5c8.js.map"
   },
   "entrypoints": [
-    "static/css/main.5cedfe62.css",
-    "static/js/main.b882e73e.js"
+    "static/css/main.7f8267b5.css",
+    "static/js/main.7b20a5c8.js"
   ]
 }
