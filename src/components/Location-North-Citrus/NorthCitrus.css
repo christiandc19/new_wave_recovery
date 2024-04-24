@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto:wght@300&display=swap');
+
+
+.NorthCitrus {
+    width: 100%;
+    height: 80vh;
+    background: rgba(19, 18, 18, 0.658);
+    position: relative;
+  }
+  
+  .NorthCitrus:before {
+    content: '';
+    position: absolute;
+    background: url('../../assets/citrus-retreat1-min.png') no-repeat center center/cover;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+  }
+  
+
+.NorthCitrus {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.NorthCitrus .NorthCitrus-content {
+    display: block;
+    position: absolute;
+    bottom: 20%;
+    padding: 1rem;
+    text-align: center;
+}
+
+.NorthCitrus h1 {
+    font-size: 4rem;
+    font-family: 'Playfair Display', serif;    
+    color: white;
+    letter-spacing: 2px;
+}
+
+
+/* MEDIA QUERIES */
+
+@media screen and (max-width:940px) {
+
+.NorthCitrus h1 {
+    font-size: 2rem;
+}
+
+}

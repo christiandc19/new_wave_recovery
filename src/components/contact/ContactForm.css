@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+
+.contact-container {
+  width: 90%;
+  height: auto;
+}
+
+.contact-container:before {
+  content: '';
+  position: absolute;
+  background: url('../../assets/bg.jpg') no-repeat center center/cover;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+  opacity: 0.015;
+}
+
+
+
+
+/* Cards */
+
+.contact-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  padding: 2rem 0 4rem 0;
+}
+
+.contact-card {
+  width: 250px;
+  background-color: #094b8d0a;
+  padding: 1rem;
+}
+
+.contact-cards .contact-card {
+  text-align: center;
+  padding: 1rem;
+}
+
+.contact-cards .contact-card p {
+  font-size: 12px;
+  letter-spacing: 1px;
+  padding: .3rem;
+  color: var(--primary-color);
+  font-weight: 700;
+}
+
+.contact-cards .contact-card-icon a {
+  margin: auto;
+  font-size: 18px;
+  font-family: 'Playfair Display', serif;
+  color: rgb(20, 19, 19);
+}
+
+.contact-cards .contact-card h3 {
+  color: rgb(204, 155, 29);
+  font-size: 2rem;
+}
+
+.contact-cards .contact-card h5 {
+  color: rgb(82, 75, 75);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.get_form_inner {
+  display: block;
+  padding: 2rem 2rem ;
+  background: #fff;
+  box-shadow: -4px -2px 20px -7px #7e7f81;
+  margin: 4rem 2rem 2rem 3rem;
+}
+
+input {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+input[type="text"], input[type="text"], input[type="email"], input[type="tel"] {
+  border: 1px solid #dbdbdb;
+  border-radius: 2px;
+  color: #333;
+  height: 42px;
+  padding: 0 0 0 20px;
+  width: 100%;
+  outline: 0;
+}
+
+textarea {
+  border: 1px solid #dbdbdb;
+  border-radius: 2px;
+  color: #333;
+  padding: 12px 0 0 20px;
+  width: 100%;
+  outline: 0;
+  margin-bottom: 20px;
+  resize: none;
+}
+
+.textarea2 textarea {
+  border: none;
+  color: rgb(53, 82, 42);
+  text-align: center;
+}
+
+.get_form_inner_text h3 {
+  color: var(--primary-color);
+  font-size: 26px;
+  font-weight: 600;
+}
+
+.get_form_inner_text p {
+  text-align: left;
+}
+
+input[type="submit"] {
+  background-color: var(--primary-color);
+  border: var(--primary-color);
+  color: #fff;    
+  display: inline-block;
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: 500;
+  padding: 10px 20px;
+  outline: 0;
+  cursor: pointer;
+  transition: all 0.3s cubic-bezier(0.55, 0.055, 0.675, 0.19);
+  -webkit-transition: all 0.3s cubic-bezier(0.55, 0.055, 0.675, 0.19);
+  -moz-transition: all 0.3s cubic-bezier(0.55, 0.055, 0.675, 0.19);
+  -ms-transition: all 0.3s cubic-bezier(0.55, 0.055, 0.675, 0.19);
+  -o-transition: all 0.3s cubic-bezier(0.55, 0.055, 0.675, 0.19);
+}
+
+input[type="submit"]:hover {
+  background-color: rgb(212, 42, 212);
+  border-color: var(--secondary-color);
+  color: #fff;
+}
+
+
+  .hidden {
+    display: none;
+    margin-bottom: 2rem;
+    color: white;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    z-index: 2;
+}
+
+
+
+
+@media screen and (max-width: 940px) {
+  .get_form_inner {
+      margin: 4rem 1rem 2rem 1rem;
+    }
+
+  }
+
+
+  @media screen and (max-width: 700px) {
+    .contact-card {
+      width: 200px;
+    }
+  }

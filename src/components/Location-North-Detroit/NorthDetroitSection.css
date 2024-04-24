@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto:wght@300&display=swap');
+
+.NorthDetroit-section-header {
+    width: auto;
+    padding: 20px;
+    text-align: center;
+    margin: 2rem auto;
+}
+
+.NorthDetroit-section-header h1 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding: 3rem 0 0 0;
+}
+
+.NorthDetroit-section-header p {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+
+.north-detroit-flex {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.north-detroit-left {
+  width: 500px;
+  padding: 1rem;
+  margin: auto;
+}
+
+.north-detroit-left img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.north-detroit-right {
+  width: 50%;
+  padding: 1rem;
+  margin: auto;
+}
+
+.north-detroit-right p {
+  font-size: 16px;
+  text-align: justify;
+}
+
+.north-detroit-right h5 {
+  font-size: 16px;
+  padding: .5rem 0;
+  color: rgb(192, 123, 33);
+}
+
+
+

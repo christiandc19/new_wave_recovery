@@ -1,0 +1,50 @@
+.topbar {
+    width: 100%;
+    padding: .8rem;
+    background-color: #38393a;
+    position: relative;
+
+}
+
+.topbar .topbar-content {
+    display: flex;
+    color: white;
+    justify-content: space-around;
+}
+
+.topbar .topbar-content p {
+    padding: 0 1rem;
+    font-size: 14px;
+}
+
+.topbar .bar-box1 {
+    width: 25rem;
+    border-right: 1px solid rgba(229, 175, 88, 0.438);
+}
+
+.topbar .bar-box2 {
+    width: 20rem;
+    border-right: 1px solid rgba(229, 175, 88, 0.438);
+}
+
+.topbar .bar-box3 a {
+    color: white;
+}
+
+.topbar .bar-box3 a:hover {
+    color: var(--secondary-color);
+}
+
+.topbar span {
+    color: var(--secondary-color);
+    font-size: 16px;
+    font-weight: bold;
+}
+
+
+
+@media screen and (max-width: 940px) {
+    .top-hide {
+        display: none;
+    }
+}

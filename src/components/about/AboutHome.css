@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Poppins:wght@300&display=swap');
+
+
+.mission-home {
+    width: 100%;
+    height: auto;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.568);
+  }
+  
+  .mission-home:before {
+    content: '';
+    position: absolute;
+    background: url('../../assets/missionHome.webp') no-repeat center center/cover;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    /* background-attachment: fixed; */
+  }
+
+  .mission-home .mission-home-content  {
+    height: auto;
+    padding: 15rem 0;
+
+  }
+
+.mission-home .mission-home-content h1 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color: white;
+    padding: 2rem;
+    font-size: 3rem;
+}
+
+.mission-home .mission-home-content p {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 1rem;
+}
+
+.mission-home h2 {
+    font-size: 2.5rem;
+    text-align: center;
+    padding: 2rem;
+    font-family: 'Kaushan Script', cursive;
+    color: rgb(238, 214, 194);
+}
+
+
+@media screen and (max-width:940px) {
+
+    .mission-home .mission-home-content {
+        top: 5%;
+    }
+    .mission-home .mission-home-content h1 {
+
+        font-size: 1.5rem;
+    }
+
+    .mission-home h2 {
+        font-size: 2rem;
+    }
+
+    }

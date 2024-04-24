@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto:wght@300&display=swap');
+
+
+
+.WestHollywoodSection-header {
+    width: auto;
+    padding: 20px;
+    text-align: center;
+    margin: 2rem auto;
+}
+
+.WestHollywoodSection-header h1 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+.WestHollywoodSection-header p {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+
+

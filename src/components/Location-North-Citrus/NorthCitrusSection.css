@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+.bg {
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+
+.bg:before {
+  content: '';
+  position: absolute;
+  background: url('../../assets/bg1.jpg') no-repeat center top/cover;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+  opacity: 0.02;
+}
+
+
+.NorthCitrus-section-header {
+    width: auto;
+    padding: 1rem;
+    text-align: center;
+}
+
+.NorthCitrus-section-header h1 {
+  font-family: 'Playfair Display', serif;    
+    text-align: center;
+    padding: 1rem;
+}
+
+.NorthCitrus-section-header h2 {
+  text-align: center;
+  padding: 1rem;
+  font-family: 'Playfair Display', serif;    
+  font-size: 2rem;
+}
+
+
+.NorthCitrus-section-header p {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+.north-citrus-flex {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.north-citrus-left {
+  width: 500px;
+  padding: 1rem;
+  margin: auto;
+}
+
+.north-citrus-left img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.north-citrus-right {
+  width: 50%;
+  padding: 1rem;
+  margin: auto;
+}
+
+.north-citrus-right p {
+  font-size: 16px;
+  text-align: justify;
+}
+
+.north-citrus-right h5 {
+  font-size: 16px;
+  padding: .5rem 0;
+  color: rgb(192, 123, 33);
+}
+
+.homes {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap ;
+}
+
+.homes .thumbnail {
+  width: 350px;
+  transition: all 1s ease;
+}
+
+.homes .thumbnail img {
+  width: 100%;
+  border-radius: 10px;
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.185);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.185);
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.185);
+}
+
+
+
+@media screen and (max-width:940px) {
+  .north-citrus-flex {
+    flex-wrap: wrap;
+  }
+
+  .north-citrus-right {
+    width: 100%;
+  }
+
+  .north-citrus-left {
+    width: 100%;
+  }
+
+  .north-citrus-right h5 {
+    text-align: center;
+  }
+}

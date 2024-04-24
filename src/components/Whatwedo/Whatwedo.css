@@ -1,0 +1,70 @@
+.Whatwedo {
+    width: 100%;
+    position: relative;
+    background: rgba(255, 255, 255, 0);
+}
+
+.Whatwedo .content {
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+    padding: 1rem;
+}
+
+.Whatwedo .content p {
+    margin: 1rem 0;
+}
+
+.Whatwedo p {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+
+.Whatwedo h1 {
+    padding: 2rem 0;
+    font-size: 2rem;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: var(--primary-color);
+}
+
+.flex-right {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+
+.Whatwedo button {
+    margin: auto;
+}
+
+
+@media screen and (max-width: 940px) {
+    .Whatwedo .content {
+        width: 100%;
+    }
+
+    .Whatwedo h1 {
+        font-size: 25px;
+    }
+
+    .Whatwedo p {
+        font-size: 15px;
+    }
+
+    .thumbnail img {
+        width: 250px;
+        height: 150px;
+    }
+}
+
+
+
+
+
+

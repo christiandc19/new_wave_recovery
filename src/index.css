@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+:root {
+  --primary-color: #3E7B99;
+  --primary-dark: #141d35;
+  --secondary-color: rgb(197, 136, 24);
+
+}
+
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Roboto', sans-serif;
+}
+
+code {
+  font-family: 'Roboto', sans-serif;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: rgb(218, 133, 76);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+
+
+h1 {
+  font-size: 25px;
+  font-family: 'Roboto', sans-serif;
+  color: var(--primary-color);
+
+}
+
+h2 {
+  font-size: 25px;
+  font-family: 'Roboto', sans-serif;
+  color: var(--primary-color);
+}
+
+.container {
+  max-width: 1240px;
+  margin: auto;
+  height: 100%;
+  position: relative;
+}
+
+button {
+  font-family: 'Roboto', sans-serif;
+  padding: .8rem 3rem;
+  margin: 1rem 0;
+  background-color: var(--primary-color);
+  border: 1px solid var(--primary-color);
+  color: #f8f8f8;
+  font-size: 1.2rem;
+  font-weight: 500;
+  border-radius: 10px;
+  cursor:pointer;
+
+}
+
+button:hover {
+  background-color: var(--secondary-color);
+  border-color: var(--secondary-color);
+}
+
+
+/* SUBMENU */
+
+.sub__menus__arrows:hover .sub__menus{
+  display: block;
+}
+
+.sub__menus__arrows__full:hover .sub__menus{
+  display: block;
+  z-index: 1000000;
+}
+
+.menu-item .sub__menus  a {
+padding: 7px 0 0px 0;
+margin: 0px 5px;
+}
+
+
+/* SUBMENU SECTION */
+
+.wrap {
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: center;
+  }
+  
+  .box {
+      height: auto;
+      margin: 1rem;
+  }
+  
+  .wrap .header {
+      text-align: left;
+  }
+  
+  .box img {
+      border-radius: 10px;
+  }
+  
+  p {
+      font-size: 15px;
+  }
+
+
+  .prog-link {
+    color: var(--primary-color);
+    font-size: 12px;
+  }
+
+  .prog-link:hover {
+    color: var(--secondary-color);
+  }
+  
+
+  .star {
+    color: goldenrod;
+}
+  /* MEDIA QUERIES */
+  
+  @media screen and (max-width:940px) {
+
+    p {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .wrap .header {
+        font-size: 1.5rem;
+        text-align: center;
+    }
+
+    .wrap .box-btn button {
+        margin: 1rem auto;
+    }
+}
+
+    .job-link a {
+    color: rgb(72, 214, 103);
+  }
+
+@media screen and (max-width:375px) {
+  .box img {
+      width: 100%;
+      height: 300px;
+  }
+}
+
+/* MAIN MENUS CONTENTS */
+
+.main-menu .content {
+  position: absolute;
+  top: 30%;
+  /* padding: 0 10rem; */
+  width: 100%;
+}
+
+.main-menu h1 {
+  text-align: left;
+  font-size: 2rem;
+  padding: 10px 0;
+  color: var(--secondary-color);
+}
+
+
+.main-menu p {
+  color: rgb(85, 83, 83);
+  margin: auto;
+  text-align: justify;
+  font-size: 16px;
+}
+
+.job-link a {
+  color:var(--primary-color);
+  font-weight: bold;
+}
+
+.job-link a:hover {
+  color: #46a828;
+}
+
+
+/* Wave Divider - SA and MH Hero Image */
+
+.hero-divider {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.hero-divider img {
+  width: 100%;
+}
+
+@media screen and (max-width: 940px) {
+
+  .hero-divider img {
+    display: none;
+  }
+
+}
+

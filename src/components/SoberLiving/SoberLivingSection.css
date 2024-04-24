@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+
+.sectionbg {
+    width: 100%;
+    height: auto;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background: rgba(29, 28, 29, 0);
+  }
+  
+  .soberLivingSection:before {
+    content: '';
+    position: absolute;
+    background: url('../../assets/bg1.jpg') no-repeat center center/cover;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    opacity: .06;
+  }
+
+.soberLivingSection {
+    padding:  1rem;
+}
+
+.soberLivingSection-content {
+    display: flex;
+    gap: 1rem;
+    padding: 3rem 0;
+}
+
+.soberLivingSection-right {
+    width: 400px;
+    text-align: center;
+    margin: auto;
+}
+
+.soberLivingSection-right img {
+    width: 100%;
+    border-radius: 1rem;
+}
+
+.soberLivingSection-left {
+    width: 70%;
+    padding: 2rem;
+    margin: auto;
+}
+
+.soberLivingSection-content h1 {
+    font-size: 1rem;
+    padding: 1rem 0;
+    letter-spacing: 5px;
+    color: rgb(253, 146, 5);
+}
+
+.soberLivingSection-content p {
+    font-size: 16px;
+    text-align: left;
+    color: rgb(0, 0, 0);
+    margin-bottom: 0;
+}
+
+.checklist {
+    display: flex;
+    gap: 1rem;
+}
+
+.soberLivingSection-icon {
+    font-size: 1.2rem;
+    color: rgb(253, 146, 5);
+}
+
+.soberLivingSection2-content {
+    padding: 1rem;
+}
+
+@media screen and (max-width:940px) {
+    .soberLivingSection-content {
+        flex-wrap: wrap
+    }
+
+    .soberLivingSection2-content {
+        flex-wrap: wrap-reverse;
+    }
+
+    .soberLivingSection {
+        padding: 1rem 1rem;
+        margin: 1rem 0 7rem  0;
+    }
+
+    .soberLivingSection-right {
+        width: 100%;
+        margin: auto;
+        padding: 1rem;
+    } 
+
+    .soberLivingSection-left {
+        width: 100%;
+    }
+
+    .soberLivingSection h1 {
+        text-align: center;
+}
+
+    .soberLivingSection-content h1 {
+    text-align: center;
+}
+
+    .soberLivingSection-content h2 {
+    text-align: center;
+}
+    
+}
