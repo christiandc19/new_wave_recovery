@@ -19,7 +19,7 @@ const Contact = () => {
                   <p>Talk to a member of our Addiction and Recovery Support team. </p>
             </Fade>
             <Fade left>
-                  <h2> +1 (213) 584-4445 </h2>
+                  <h2> +1 (714) 766-3251 </h2>
             </Fade>
 
             </div>
