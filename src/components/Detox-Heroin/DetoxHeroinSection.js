@@ -13,7 +13,7 @@ const HeroinDetoxSection = () => {
 
               <div className='heroin-detox-section-header'>
                   <h1>Heroin Detox Program: Taking the First Step Towards Recovery</h1>
-                  <p>Welcome to Elmo Detox's Heroin Detox Program. We understand that taking the first step towards recovery can be a challenging and courageous decision. Our dedicated team of professionals is here to provide you with the support and guidance you need to overcome heroin addiction and embark on a path to lasting recovery.</p>
+                  <p>Welcome to New Wave Recovery's Heroin Detox Program. We understand that taking the first step towards recovery can be a challenging and courageous decision. Our dedicated team of professionals is here to provide you with the support and guidance you need to overcome heroin addiction and embark on a path to lasting recovery.</p>
 
                   <h1>What is Heroin Detoxification?</h1>
                   <p>Heroin detoxification is the critical first stage in breaking free from heroin addiction. It involves safely and systematically removing heroin and its byproducts from your body, allowing you to transition into a drug-free state. This process is supervised by our experienced medical staff to ensure your safety and well-being.</p>

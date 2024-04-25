@@ -14,7 +14,7 @@
   .contact-hero:before {
     content: '';
     position: absolute;
-    background: url('../../assets/menu-bg-contact.webp') no-repeat center top/cover;
+    background: url('../../assets/menu-bg-contact.webp') no-repeat center center/cover;
     height: 100%;
     width: 100%;
     z-index: -1;

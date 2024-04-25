@@ -13,7 +13,7 @@ const AlcoholDetoxSection = () => {
 
               <div className='alcohol-detox-section-header'>
                   <h1>Alcohol Detox Program: Taking the First Step Towards Sobriety</h1>
-                  <p>Welcome to Elmo Detox's Alcohol Detox Program. We understand that deciding to seek help for alcohol addiction is a significant and courageous step. Our experienced and compassionate team is dedicated to providing you with the support and care you need to break free from alcohol dependency and start your journey towards a healthier, sober life.</p>
+                  <p>Welcome to New Wave Recovery's Alcohol Detox Program. We understand that deciding to seek help for alcohol addiction is a significant and courageous step. Our experienced and compassionate team is dedicated to providing you with the support and care you need to break free from alcohol dependency and start your journey towards a healthier, sober life.</p>
 
                   <h1>Understanding Alcohol Detoxification</h1>
                   <p>Alcohol detoxification is the initial stage in the process of recovery from alcohol addiction. It involves safely and systematically removing alcohol from your system under the guidance of our specialized medical staff. This process is designed to ensure your safety and comfort throughout the detoxification journey.</p>

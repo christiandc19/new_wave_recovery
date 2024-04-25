@@ -13,7 +13,7 @@ const CocaineDetoxSection = () => {
 
               <div className='cocaine-detox-section-header'>
                   <h1>Cocaine Detox Program: Reclaiming Your Life from Addiction</h1>
-                  <p>Welcome to Elmo Detox's Cocaine Detox Program. Taking the first step towards recovery from cocaine addiction is a courageous decision, and we are here to support you on your journey. Our dedicated team of professionals is committed to providing you with the care and guidance you need to overcome cocaine dependency and build a foundation for a brighter, drug-free future.</p>
+                  <p>Welcome to New Wave Recovery's Cocaine Detox Program. Taking the first step towards recovery from cocaine addiction is a courageous decision, and we are here to support you on your journey. Our dedicated team of professionals is committed to providing you with the care and guidance you need to overcome cocaine dependency and build a foundation for a brighter, drug-free future.</p>
 
                   <h1>Understanding Cocaine Detoxification</h1>
                   <p>Cocaine detoxification is a critical phase in the process of breaking free from cocaine addiction. It involves safely and systematically eliminating cocaine and its byproducts from your system under the careful supervision of our experienced medical staff. Our goal is to ensure your safety and comfort throughout the detox process.</p>

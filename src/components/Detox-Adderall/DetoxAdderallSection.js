@@ -10,7 +10,7 @@ const AlcoholDetoxSection = () => {
 
               <div className='alcohol-detox-section-header'>
                   <h1>Supporting Your Journey to Adderall Recovery</h1>
-                  <p>At Elmo Detox Center, we understand that overcoming Adderall dependence is a significant step towards a healthier, more vibrant life. Our dedicated team of professionals is here to provide you with the compassionate care and tailored support you need throughout your detoxification process.</p>
+                  <p>At New Wave Recovery Center, we understand that overcoming Adderall dependence is a significant step towards a healthier, more vibrant life. Our dedicated team of professionals is here to provide you with the compassionate care and tailored support you need throughout your detoxification process.</p>
 
                   <h1>Our Approach</h1>
                   <p><b>1. Personalized Detox Plans</b>:Our experienced medical staff will carefully oversee the process of gradually reducing Adderall dosage. This helps minimize withdrawal symptoms and ensures a safe detoxification.</p><br/>
@@ -30,7 +30,7 @@ const AlcoholDetoxSection = () => {
 
               <div className='alcohol-detox-section-left'>
               <h1>What to Expect</h1>
-                <p>During your stay at Elmo Detox Center, you'll find a welcoming and nurturing environment designed to help you focus on your recovery journey. You'll have access to comfortable accommodations, nutritious meals, and a variety of activities aimed at promoting relaxation and self-discovery.</p>
+                <p>During your stay at New Wave Recovery Center, you'll find a welcoming and nurturing environment designed to help you focus on your recovery journey. You'll have access to comfortable accommodations, nutritious meals, and a variety of activities aimed at promoting relaxation and self-discovery.</p>
                 
                 <h1>Aftercare Planning</h1>
                 <p>Recovery doesn't end with detox. Our team will work with you to develop a personalized aftercare plan, which may include outpatient therapy, support groups, and additional resources to help you maintain your progress.</p>

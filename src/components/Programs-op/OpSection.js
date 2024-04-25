@@ -12,9 +12,9 @@ const OpSection = () => {
       <div className="op-section-content container">
 
             <div className="op-section-header">
-              <h1>Oxnard Rehab: Outpatient Treatment</h1>
+              <h1>New Wave Recovery: Outpatient Treatment</h1>
               <p>Welcome to [Clinic Name] Outpatient Treatment Program! We are dedicated to providing high-quality, personalized care to support individuals on their journey to recovery. Our outpatient program offers flexible scheduling and a range of evidence-based therapies tailored to meet your unique needs.</p>
-              <p>Oxnard Rehab is dedicated to your well-being and committed to walking alongside you on this path to healing. We believe in your strength and resilience, and together, we will work towards a brighter, addiction-free future.</p>
+              <p>New Wave Recovery is dedicated to your well-being and committed to walking alongside you on this path to healing. We believe in your strength and resilience, and together, we will work towards a brighter, addiction-free future.</p>
               <h1>About Us</h1>
               <p>At [Clinic Name], we believe in a holistic approach to recovery, addressing not only the physical aspects of addiction but also the emotional, mental, and social factors that contribute to it. Our team of experienced professionals is committed to creating a safe and supportive environment for individuals seeking outpatient treatment.</p>
             </div>
