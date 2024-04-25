@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/new_wave_recovery/static/css/main.cb5b3086.css",
-    "main.js": "/new_wave_recovery/static/js/main.be574f04.js",
+    "main.css": "/new_wave_recovery/static/css/main.675d479b.css",
+    "main.js": "/new_wave_recovery/static/js/main.d1a5993c.js",
     "static/media/hero2.jpg": "/new_wave_recovery/static/media/hero2.a30a3d8ff3ccd908f493.jpg",
     "static/media/treatment-2.jpg": "/new_wave_recovery/static/media/treatment-2.e9bc74dc2acb65f4d66c.jpg",
     "static/media/detox-section1.webp": "/new_wave_recovery/static/media/detox-section1.2f4c946120939c339d3b.webp",
@@ -24,20 +24,20 @@
     "static/media/missionSection1.webp": "/new_wave_recovery/static/media/missionSection1.a140c1565c8b9c08b815.webp",
     "static/media/nav-logo-bl2.png": "/new_wave_recovery/static/media/nav-logo-bl2.7645099771b7cddf70b4.png",
     "static/media/adderal-section.webp": "/new_wave_recovery/static/media/adderal-section.0cfad2c9f57276e74227.webp",
+    "static/media/logo_footer.png": "/new_wave_recovery/static/media/logo_footer.75d5653e4a15d87092b3.png",
     "static/media/program_php.webp": "/new_wave_recovery/static/media/program_php.2962f276c6c1e92ba9fb.webp",
     "static/media/missionHome.webp": "/new_wave_recovery/static/media/missionHome.4bd4314c677a71065601.webp",
+    "static/media/whatwedo1.webp": "/new_wave_recovery/static/media/whatwedo1.ef2eba0c225ff0d71cd5.webp",
     "static/media/section-bg.jpg": "/new_wave_recovery/static/media/section-bg.37b1c5c020be9cc067a6.jpg",
     "static/media/addiction-cocaine.webp": "/new_wave_recovery/static/media/addiction-cocaine.f64ca867344f63ba347d.webp",
     "static/media/addiction-fentanyl.webp": "/new_wave_recovery/static/media/addiction-fentanyl.da320b4a3f56dc06239a.webp",
     "static/media/hero1.webp": "/new_wave_recovery/static/media/hero1.842080d6960bd5e2573b.webp",
     "static/media/servicesSection1-min.webp": "/new_wave_recovery/static/media/servicesSection1-min.7569ecb8e6e215d887fd.webp",
-    "static/media/whatwedo1.webp": "/new_wave_recovery/static/media/whatwedo1.70c1666d9dba2618ee4e.webp",
     "static/media/program_iop.webp": "/new_wave_recovery/static/media/program_iop.0e42f356867b0ad07ec1.webp",
     "static/media/menu-bg-contact.webp": "/new_wave_recovery/static/media/menu-bg-contact.4a7b71bee0cd85ea697b.webp",
     "static/media/huntington1.webp": "/new_wave_recovery/static/media/huntington1.b4435571b2faff26bc3d.webp",
     "static/media/alcohol-detox1.webp": "/new_wave_recovery/static/media/alcohol-detox1.3e7120b77f4ae5b77553.webp",
     "static/media/career.webp": "/new_wave_recovery/static/media/career.75ffd263e8abfccdf8d7.webp",
-    "static/media/nav-logo.png": "/new_wave_recovery/static/media/nav-logo.b446261424cde831761e.png",
     "static/media/iop-section1.webp": "/new_wave_recovery/static/media/iop-section1.c6f65a75ce3627ca5815.webp",
     "static/media/menu-bg-mission.jpg": "/new_wave_recovery/static/media/menu-bg-mission.780c0ecf53ed3820340a.jpg",
     "static/media/mental-health-submenu-bg.webp": "/new_wave_recovery/static/media/mental-health-submenu-bg.226cdaf9da810f1e6bf3.webp",
@@ -62,11 +62,11 @@
     "static/media/aetna.webp": "/new_wave_recovery/static/media/aetna.403dd7aefa28abeaab83.webp",
     "static/media/horizon.webp": "/new_wave_recovery/static/media/horizon.cbfbfc8b21eb86573ce8.webp",
     "index.html": "/new_wave_recovery/index.html",
-    "main.cb5b3086.css.map": "/new_wave_recovery/static/css/main.cb5b3086.css.map",
-    "main.be574f04.js.map": "/new_wave_recovery/static/js/main.be574f04.js.map"
+    "main.675d479b.css.map": "/new_wave_recovery/static/css/main.675d479b.css.map",
+    "main.d1a5993c.js.map": "/new_wave_recovery/static/js/main.d1a5993c.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb5b3086.css",
-    "static/js/main.be574f04.js"
+    "static/css/main.675d479b.css",
+    "static/js/main.d1a5993c.js"
   ]
 }
