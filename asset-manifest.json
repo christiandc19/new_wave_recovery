@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/new_wave_recovery/static/css/main.329b8a99.css",
-    "main.js": "/new_wave_recovery/static/js/main.dccab73c.js",
+    "main.css": "/new_wave_recovery/static/css/main.7c95ef9e.css",
+    "main.js": "/new_wave_recovery/static/js/main.12022154.js",
     "static/media/hero2.jpg": "/new_wave_recovery/static/media/hero2.a30a3d8ff3ccd908f493.jpg",
     "static/media/treatment-2.jpg": "/new_wave_recovery/static/media/treatment-2.e9bc74dc2acb65f4d66c.jpg",
     "static/media/detox-section1.webp": "/new_wave_recovery/static/media/detox-section1.2f4c946120939c339d3b.webp",
@@ -9,6 +9,7 @@
     "static/media/cocaine-section1.webp": "/new_wave_recovery/static/media/cocaine-section1.eecc181869d8d3dbbbc2.webp",
     "static/media/citrus-retreat1-min.png": "/new_wave_recovery/static/media/citrus-retreat1-min.ff95d19c5f681481d7c2.png",
     "static/media/servicesSection1-min.jpg": "/new_wave_recovery/static/media/servicesSection1-min.6f5adfc8add879949317.jpg",
+    "static/media/insurance-section.webp": "/new_wave_recovery/static/media/insurance-section.8de9816a90569beb43b2.webp",
     "static/media/benzo-section1.webp": "/new_wave_recovery/static/media/benzo-section1.a3c0d726d7a2cf33356b.webp",
     "static/media/detox-cocaine-bg.webp": "/new_wave_recovery/static/media/detox-cocaine-bg.39aa8272129383288a68.webp",
     "static/media/sober-living-section.webp": "/new_wave_recovery/static/media/sober-living-section.882fc991135bff657bbe.webp",
@@ -53,12 +54,18 @@
     "static/media/section-bg.webp": "/new_wave_recovery/static/media/section-bg.04ee09a2498cd9680dac.webp",
     "static/media/php-section1.webp": "/new_wave_recovery/static/media/php-section1.099a68685de30b4033b7.webp",
     "static/media/huntington2.webp": "/new_wave_recovery/static/media/huntington2.43d9ae1db46c535bd41c.webp",
+    "static/media/beacon.webp": "/new_wave_recovery/static/media/beacon.01b047f9acfbed4b0329.webp",
+    "static/media/bluecross.webp": "/new_wave_recovery/static/media/bluecross.579947222df7a68eb028.webp",
+    "static/media/anthem.webp": "/new_wave_recovery/static/media/anthem.e5e4aecc8252f308ea69.webp",
+    "static/media/cigna.webp": "/new_wave_recovery/static/media/cigna.16fdba3ffdc7bf290e51.webp",
+    "static/media/aetna.webp": "/new_wave_recovery/static/media/aetna.403dd7aefa28abeaab83.webp",
+    "static/media/horizon.webp": "/new_wave_recovery/static/media/horizon.cbfbfc8b21eb86573ce8.webp",
     "index.html": "/new_wave_recovery/index.html",
-    "main.329b8a99.css.map": "/new_wave_recovery/static/css/main.329b8a99.css.map",
-    "main.dccab73c.js.map": "/new_wave_recovery/static/js/main.dccab73c.js.map"
+    "main.7c95ef9e.css.map": "/new_wave_recovery/static/css/main.7c95ef9e.css.map",
+    "main.12022154.js.map": "/new_wave_recovery/static/js/main.12022154.js.map"
   },
   "entrypoints": [
-    "static/css/main.329b8a99.css",
-    "static/js/main.dccab73c.js"
+    "static/css/main.7c95ef9e.css",
+    "static/js/main.12022154.js"
   ]
 }
