@@ -3,7 +3,7 @@ import Fade from 'react-reveal/Fade';
 import './ServicesSection.css'
 
 import { BsCheckLg } from "react-icons/bs";
-import servicesSection1 from '../../assets/servicesSection1-min.jpg'
+import servicesSection1 from '../../assets/servicesSection1-min.webp'
 
 const ServicesSection = () => {
     return (
