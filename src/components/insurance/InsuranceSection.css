@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+
+.InsuranceSection {
+    width: 100%;
+    height: auto;
+    position: relative;
+    /* background-color: rgb(255, 249, 242);  */
+    padding: 0 0 5rem 0;
+  }
+  
+  .InsuranceSection:before {
+    content: '';
+    position: absolute;
+    background: url('../../assets/section-bg.webp') no-repeat center center/cover;
+    height: 100%;
+    width: 100%;
+    opacity: .03;
+  }
+
+
+  .insurance-section-content {
+    padding: 4rem 0 0 0;
+  }
+
+  .insurance-section-flex {
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+  }
+
+  .insurance-section-left h1 {
+    padding: 1rem 0;
+    font-family: 'Bacasime Antique', serif;
+    font-size: 1.2rem;
+  }
+
+  .insurance-section-left p {
+    text-align: justify;
+  }
+
+  .insurance-section-left {
+    width: 60%;
+    margin: auto;
+  }
+
+  .insurance-section-right {
+    width: 400px;
+    height: 100%;
+    margin: auto;
+  }
+
+  .insurance-section-right img {
+    width: 100%;
+    height: 100%;
+  }
+
+.insurance-section-header {
+    text-align: center;
+    padding: 1rem;
+}
+
+.insurance-section-header p {
+    padding: 1rem 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.insurance-section-thumbnails {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    width: 100%;
+}
+
+.insurance-thumbnail {
+    width: 100px;
+    height: 100%;
+}
+
+.insurance-thumbnail img {
+    width: 100%;
+}
+
+
+
+@media  screen and (max-width:940px) {
+
+  .insurance-section-flex {
+    flex-wrap: wrap-reverse;
+  }
+
+    .insurance-section-left {
+        width: 100%;
+        text-align: center;
+      }
+    
+    .insurance-section-header h1 {
+        font-size: 1.5rem;
+        padding: 1rem 0;
+    }
+
+
+    .insurance-section-header p {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .insurance-thumbnail {
+        width: 100px;
+    }
+
+}
+
+
+
+
+
+
