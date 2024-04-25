@@ -2,7 +2,7 @@ import React, { useRef } from "react";
 // import { BsFillPinMapFill } from 'react-icons/bs';
 // import { AiOutlinePhone } from 'react-icons/ai';
 // import { AiOutlineMail } from 'react-icons/ai';
-import { ImOffice } from 'react-icons/im';
+// import { ImOffice } from 'react-icons/im';
 import { GiBrain } from 'react-icons/gi';
 import { MdAlternateEmail } from 'react-icons/md';
 import { BsFillPinMapFill } from 'react-icons/bs';
@@ -110,13 +110,13 @@ const ContactForm = () => {
 
 <div className="contact-cards">
 
-    <div className="contact-card">
+    {/* <div className="contact-card">
         <div className="contact-card-icon">
           <h3><ImOffice /></h3> 
           <p>CORPORATE OFFICE</p>
           <a href="tel:3105267505">  (310) 526-7505</a>
         </div>
-    </div>
+    </div> */}
 
     <div className="contact-card">
         <div className="contact-card-icon">
@@ -130,7 +130,7 @@ const ContactForm = () => {
         <div className="contact-card-icon">
           <h3><MdAlternateEmail /></h3> 
           <p>EMAIL</p>
-          <h5>info@55silver.biz</h5>
+          <h5>info@NewWaveRecovery.net</h5>
         </div>
     </div>
 
@@ -138,7 +138,7 @@ const ContactForm = () => {
         <div className="contact-card-icon">
           <h3><BsFillPinMapFill /></h3> 
           <p>LOCATION</p>
-          <h5>1800 Vine Street, Los Angeles CA 90028</h5>
+          <h5>1234 Street Name, Huntington Beach CA 00000</h5>
         </div>
     </div>
 
