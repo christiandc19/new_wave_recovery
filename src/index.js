@@ -41,6 +41,9 @@ import DetoxMethamphetamine  from './routes/DetoxMethamphetamine';
 import DetoxMarijuana  from './routes/DetoxMarijuana';
 import DetoxAdderall  from './routes/DetoxAdderall';
 
+import Php from './routes/Programs-PHP';
+import Iop from './routes/Programs-IOP';
+import Op from './routes/Programs-OP';
 
 
 ReactDOM.render(
@@ -85,6 +88,9 @@ ReactDOM.render(
       <Route exact path='/detox-Marijuana' element={<DetoxMarijuana />} />
       <Route exact path='/detox-Adderall' element={<DetoxAdderall />} />
 
+      <Route exact path='/partial-hospitalization-program' element={<Php />} />
+      <Route exact path='/intensive-outpatient-program' element={<Iop />} />
+      <Route exact path='/outpatient-program' element={<Op />} />
 
     </Routes>
   </BrowserRouter>,

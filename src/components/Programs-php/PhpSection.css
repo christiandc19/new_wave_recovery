@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Bacasime+Antique&display=swap');
+
+
+.php-section {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  
+  .php-section:before {
+    content: '';
+    position: absolute;
+    background: url('../../assets/section-bg.webp') no-repeat center center/cover;
+    height: 100%;
+    width: 100%;
+    opacity: .03;
+  }
+
+  .php-section-content {
+    padding: 1rem;
+  }
+
+.php-section-header {
+    text-align: justify;
+    padding: 3rem 0;
+}
+
+.php-section-header h1 {
+    font-size: 2rem;
+    color: var(--primary-text);
+    font-family: 'Bacasime Antique', serif;
+    text-align: center;
+}
+
+.php-section-header h2 {
+    font-weight: 300;
+    font-size: 1rem;
+    text-align: left;
+}
+
+.php-section-header p {
+    padding: .5rem 0;
+    text-align: justify;
+    font-size: 14px;
+}
+
+.php-section-flex {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    padding-top: 3rem;   
+}
+
+.php-section-flex-left {
+    width: 100%;
+    margin: auto;
+}
+
+.php-section-flex-right {
+    width: 700px;
+    height: auto;
+    margin: auto;
+    padding: 1rem;
+    background-repeat: no-repeat;
+    background-size: 4px 50%, 50% 4px, 4px 50%, 50% 4px, calc(100% - 8px) calc(100% - 8px);
+    background-position: left bottom, left bottom, right top, right top, 4px 4px;
+}
+
+.php-section-flex-right img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.php-section-flex-left h1 {
+    padding: .5rem 0;
+    font-size: 1.5rem;
+    color: var(--primary-text);
+    font-family: 'Bacasime Antique', serif;
+}
+
+.php-section-flex p {
+    text-align: justify;
+    font-size: 14px;
+
+}
+
+@media screen and (max-width:940px) {
+    .php-section-flex {
+        flex-wrap: wrap-reverse;  
+    }
+
+    .php-section-header h1 {
+        font-size: 2rem;
+    }
+
+    .php-section-flex h1 {
+        text-align: center;
+    }
+
+
+}

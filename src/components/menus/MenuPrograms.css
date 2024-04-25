@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto:wght@300&display=swap');
+
+
+.menu-programs {
+  padding: 4rem 0;
+  background-color: rgb(255, 249, 242);
+}
+
+.menu-programs-content {
+  padding: 1rem;
+}
+
+.menu-programs-flex
+{
+  width:100%;
+  display:flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 2rem 0;
+}
+
+.menu-programs-header {
+  padding: 2rem 0;
+}
+
+.menu-programs-header h1 {
+  text-align: center;
+  color: rgba(15, 15, 15, 0.89);
+  padding: 1rem 0;
+  font-family: 'Bacasime Antique', serif;
+  font-weight: 300;
+  font-size: 2rem;
+}
+
+.menu-programs-header p {
+  text-align: justify;
+  color: rgba(12, 12, 12, 0.89);
+}
+
+.menu-programs-flexItem {
+  width: 300px;
+}
+
+.menu-programs-flexItem img {
+  width: 100%;
+}
+
+.menu-programs-flexItem h1 {
+  font-size: 1rem;
+  text-align: center;
+  padding: .5rem;
+  font-weight: 300;
+  color: rgba(0, 0, 0, 0.89);
+}
+
+.menu-programs-flexItem p {
+  text-align: center;
+  padding: .5rem;
+  color: rgba(0, 0, 0, 0.89);
+}
+
+.menu-programs-flexItem {
+  text-align: center;
+}
+
+.menu-programs-flexItem button {
+  background-color: rgb(255, 136, 0);
+  color: rgb(255, 255, 255);
+  border: none;
+  font-size: .9rem;
+  text-transform: uppercase;
+}
+
+.menu-programs-flexItem button:hover {
+  background-color: #7CB9E8;
+  color: white;
+  border: none;
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+
+
+
+@media screen and (max-width:940px) {
+  .menu-programs-header h1 {
+    font-size: 1.5rem;
+  }
+}
+
+
+@media screen and (max-width:700px) {
+  .menu-programs-flexItem {
+    width: 100%;
+  }
+  
+}

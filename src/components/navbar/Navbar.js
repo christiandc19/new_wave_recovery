@@ -94,21 +94,19 @@ const Navbar = () => {
                         </ul>
                     </li>
 
-                    {/* <li onClick={toggleSubmenu} className="menu-item sub__menus__arrows" >location <AiOutlineCaretDown />
+                     <li onClick={toggleSubmenu} className="menu-item sub__menus__arrows" >Substance Abuse <AiOutlineCaretDown />
                         <ul className={boxClassSubMenu.join(' ')} id='submenu-item'> 
-                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/north-citrus`}> North Citrus, Los Angeles </NavLink> </li>
-                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/north-detroit`}> North Detroit, Los Angeles</NavLink> </li>
-                            <li><NavLink onClick={toggleClass} activeClassName='is-active' to={`/huntington-beach`}> Huntington Beach </NavLink> </li>
-                            <li><NavLink onClick={toggleClass} activeClassName='is-active' to={`/west-hollywood`}> West Hollywood </NavLink> </li>
-                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/venice`}> Venice </NavLink> </li>
+                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/partial-hospitalization-program`}> PARTIAL HOSPITALIZATION PROGRAM </NavLink> </li>
+                            <li> <NavLink onClick={toggleClass} activeClassName='is-active'  to={`/intensive-outpatient-program`}> INTENSIVE OUTPATIENT PROGRAM</NavLink> </li>
+                            <li><NavLink onClick={toggleClass} activeClassName='is-active' to={`/outpatient-program`}> OUTPATIENT PROGRAM </NavLink> </li>
                         </ul>
                     </li>
- */}
+ 
                     <li><Link to='/huntington-beach'>SOBER LIVING</Link> </li>
 
                     <li><Link to='/about'>ABOUT US</Link> </li>
 
-                    <li><Link to='/career'>Career</Link></li>
+                    {/* <li><Link to='/career'>Career</Link></li> */}
 
                     <li><Link to='/contact'>Contact</Link></li>
                 </ul>

@@ -1,0 +1,61 @@
+
+.sa-php {
+    width: 100%;
+    height: 60vh;
+    background: rgba(0, 0, 0, 0.342);
+    position: relative;
+  }
+  
+  .sa-php:before {
+    content: '';
+    position: absolute;
+    background: url('../../assets/programs_php_bg.webp') no-repeat center center/cover;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+  }
+
+
+.sa-php {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.sa-php .sa-php-content {
+    display: block;
+    position: absolute;
+    bottom: 10%;
+    padding: 1rem;
+}
+
+
+.sa-php h1 {
+    color: white;
+    font-size: 3rem;
+    text-align: center;
+    font-weight: 300;
+}
+
+.sa-php p {
+    text-align: center;
+    color: white;
+    font-weight: 300;
+}
+
+
+/* MEDIA QUERIES */
+
+@media screen and (max-width:940px) {
+
+    .sa-php .sa-php-content h1 {
+        font-size: 2rem;
+    }
+    
+}
+
+@media screen and (max-width:600px) {
+    .sa-php {
+        height: 100vh;
+      }
+}
