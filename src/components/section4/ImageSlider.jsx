@@ -27,7 +27,7 @@ const ImageSlider = ({ images }) => {
     <div className='slider-bg'>
         <div className='image-slider-header container'>
           <Zoom duration={1500}>
-            <h1>Check Out Our Los Angeles Sober Living Homes</h1>
+            <h1>Check Out Huntington Beach Sober Living Homes</h1>
             <p>At Our Sober Living Homes, we understand that the journey to recovery is unique for each individual. Our mission is to provide a supportive and nurturing environment for those transitioning from addiction treatment to independent living.</p>
           </Zoom>
         </div>
@@ -47,7 +47,7 @@ const ImageSlider = ({ images }) => {
 
         <div className='image-slider-right'>
             <h1>What Sets Us Apart</h1>
-            <p>Our sober living homes are more than just a place to stay—they are a community that fosters growth, connection, and healing. Located in the heart of Los Angeles, our homes offer a safe and structured environment where residents can build a strong foundation for their recovery.</p>
+            <p>At New Wave Recovery, we understand the challenges of overcoming addiction and rebuilding your life. Nestled in the vibrant coastal city of Huntington Beach, our sober living home offers a supportive environment where you can embark on your journey to lasting sobriety.</p>
             <ul>
               <li><span><AiOutlineCheck/> </span>Experienced Staff</li>
               <li><span><AiOutlineCheck/> </span>Structured Environment</li>

@@ -24,7 +24,7 @@ const Whoweare = () => {
 
             <Fade left>
             <p>
-            Build a new life at one of our sober living homes across Los Angeles, providing support and a community of healing behind you, every step of the way. <br/> <br/>Transitioning back into society is difficult in many situations that's why we offer an opportunity of a new beginning to the world of sobriety.
+            Build a new life at our sober living homes Huntington Beach, providing support and a community of healing behind you, every step of the way. <br/> <br/>Transitioning back into society is difficult in many situations that's why we offer an opportunity of a new beginning to the world of sobriety.
             </p>
             </Fade>
 
@@ -39,7 +39,7 @@ const Whoweare = () => {
               </div>
               <div>
                 <p>
-                <b>Prime Location: </b>Situated in Los Angeles, our residents have access to a wide range of opportunities for personal growth, employment, education, and recreation.
+                <b>Prime Location: </b>Situated in the vibrant coastal city of Huntington Beach, our residents have access to a wide range of opportunities for personal growth, employment, education, and recreation.
                 </p>
               </div>
             </Fade>
