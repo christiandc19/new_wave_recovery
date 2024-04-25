@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/new_wave_recovery/static/css/main.9dd74b64.css",
-    "main.js": "/new_wave_recovery/static/js/main.b2ed0384.js",
+    "main.css": "/new_wave_recovery/static/css/main.d5538b6b.css",
+    "main.js": "/new_wave_recovery/static/js/main.3ea2b25e.js",
     "static/media/hero2.jpg": "/new_wave_recovery/static/media/hero2.a30a3d8ff3ccd908f493.jpg",
     "static/media/treatment-2.jpg": "/new_wave_recovery/static/media/treatment-2.e9bc74dc2acb65f4d66c.jpg",
     "static/media/detox-section1.webp": "/new_wave_recovery/static/media/detox-section1.2f4c946120939c339d3b.webp",
@@ -61,11 +61,11 @@
     "static/media/aetna.webp": "/new_wave_recovery/static/media/aetna.403dd7aefa28abeaab83.webp",
     "static/media/horizon.webp": "/new_wave_recovery/static/media/horizon.cbfbfc8b21eb86573ce8.webp",
     "index.html": "/new_wave_recovery/index.html",
-    "main.9dd74b64.css.map": "/new_wave_recovery/static/css/main.9dd74b64.css.map",
-    "main.b2ed0384.js.map": "/new_wave_recovery/static/js/main.b2ed0384.js.map"
+    "main.d5538b6b.css.map": "/new_wave_recovery/static/css/main.d5538b6b.css.map",
+    "main.3ea2b25e.js.map": "/new_wave_recovery/static/js/main.3ea2b25e.js.map"
   },
   "entrypoints": [
-    "static/css/main.9dd74b64.css",
-    "static/js/main.b2ed0384.js"
+    "static/css/main.d5538b6b.css",
+    "static/js/main.3ea2b25e.js"
   ]
 }
