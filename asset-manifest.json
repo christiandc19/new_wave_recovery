@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/new_wave_recovery/static/css/main.675d479b.css",
-    "main.js": "/new_wave_recovery/static/js/main.d1a5993c.js",
+    "main.js": "/new_wave_recovery/static/js/main.1026349d.js",
     "static/media/hero2.jpg": "/new_wave_recovery/static/media/hero2.a30a3d8ff3ccd908f493.jpg",
     "static/media/treatment-2.jpg": "/new_wave_recovery/static/media/treatment-2.e9bc74dc2acb65f4d66c.jpg",
     "static/media/detox-section1.webp": "/new_wave_recovery/static/media/detox-section1.2f4c946120939c339d3b.webp",
@@ -63,10 +63,10 @@
     "static/media/horizon.webp": "/new_wave_recovery/static/media/horizon.cbfbfc8b21eb86573ce8.webp",
     "index.html": "/new_wave_recovery/index.html",
     "main.675d479b.css.map": "/new_wave_recovery/static/css/main.675d479b.css.map",
-    "main.d1a5993c.js.map": "/new_wave_recovery/static/js/main.d1a5993c.js.map"
+    "main.1026349d.js.map": "/new_wave_recovery/static/js/main.1026349d.js.map"
   },
   "entrypoints": [
     "static/css/main.675d479b.css",
-    "static/js/main.d1a5993c.js"
+    "static/js/main.1026349d.js"
   ]
 }
