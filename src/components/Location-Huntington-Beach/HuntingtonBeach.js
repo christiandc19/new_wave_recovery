@@ -13,7 +13,7 @@ const HuntingtonBeach = () => {
 
                 <div className="HuntingtonBeach-content">
                     <Fade top>
-                    <h1>HUNTINGTON BEACH CALIFORNIA</h1>
+                    <h1>HUNTINGTON BEACH, CALIFORNIA</h1>
                     </Fade>
             </div>
         </div>

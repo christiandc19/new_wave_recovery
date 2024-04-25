@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { FaBars, FaTimes } from 'react-icons/fa'
 import {NavLink, Link} from 'react-router-dom'
-// import logo from '../../assets/nav-logo-bl.png'
+import logo from '../../assets/nav-logo-bl2.png'
 import {AiOutlineCaretDown } from "react-icons/ai";
 import Topbar from '../../components/topbar/Topbar'
 
@@ -49,10 +49,9 @@ const Navbar = () => {
             <div className="navbar-container">
                 
                  <div className="navbar-logo">
-                    <h1>NEW WAVE RECOVERY</h1>
-                    {/* <Link to='/'>
+                    <Link to='/'>
                     <img src={logo} alt="New Wave Recovery Logo" loading="lazy"/>
-                    </Link> */}
+                    </Link>
                 </div>
 
                 <ul className={nav ? 'nav-menu active' : 'nav-menu'}>
