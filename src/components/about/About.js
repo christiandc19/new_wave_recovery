@@ -5,13 +5,13 @@ import './About.css'
 
 
 
-const Mission = () => {
+const About = () => {
     return (
 
 <>
 
-        <div className='mission main-menu'>
-                <div className="mission-content">
+        <div className='about'>
+                <div className="about-content">
                     <Fade top>
                     <h1>ABOUT US</h1>
                     </Fade>
@@ -21,4 +21,4 @@ const Mission = () => {
     )
 }
 
-export default Mission
+export default About

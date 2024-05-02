@@ -8,7 +8,7 @@ const HuntingtonBeachSection = () => {
   return (
 <>
 <div className="HuntingtonBeach-section-header container">
-                <h1>HUNTINGTON BEACH, CALIFORNIA</h1><br/>
+                <h1>WELCOME TO OUR HUNTINGTON BEACH SOBER LIVING HOMES</h1><br/>
                 <p>Recover in a safe community of healing and accountability at our Huntington Beach location. You’ll find all the tools, guidance, and resources you need to return to your normal life among the comfort and amenities of beachside living.
                 </p>
 </div>

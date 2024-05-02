@@ -13,7 +13,8 @@ const HuntingtonBeach = () => {
 
                 <div className="HuntingtonBeach-content">
                     <Fade top>
-                    <h1>HUNTINGTON BEACH, CALIFORNIA</h1>
+                        <h1>CHECK OUT OUR SOBER LIVING HOMES</h1>
+                    <h2>HUNTINGTON BEACH, CALIFORNIA</h2>
                     </Fade>
             </div>
         </div>
