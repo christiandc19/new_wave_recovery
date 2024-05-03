@@ -30,7 +30,9 @@ const Hero = () => {
     <p>Transitional living for those who have lost everything.<br/>It's never too late for a fresh start!</p>
     </Zoom>
 
-    <LinkRoll
+<div className="hero-btn">
+
+  <LinkRoll
                 activeClass="active"
                 to="top"
                 spy={true}
@@ -41,6 +43,9 @@ const Hero = () => {
                 <button>Call Us</button>
           </Link>
       </LinkRoll>
+
+</div>
+    
 
   </div>
 

@@ -14,7 +14,7 @@
   .sectionbg:before {
     content: '';
     position: absolute;
-    background: url('../../assets/bg1.jpg') no-repeat center center/cover;
+    background: url('../../assets/bg1.webp') no-repeat center center/cover;
     height: 100%;
     width: 100%;
     z-index: -1;
@@ -54,7 +54,7 @@
     font-size: 1rem;
     padding: 1rem 0;
     letter-spacing: 5px;
-    color: rgb(253, 146, 5);
+    color: rgb(9, 169, 243);
 }
 
 .homeSection2-content h2 {
@@ -79,7 +79,7 @@
 
 .homeSection2-icon {
     font-size: 1.2rem;
-    color: rgb(253, 146, 5);
+    color: rgb(9, 169, 243);
 }
 
 

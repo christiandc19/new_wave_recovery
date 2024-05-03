@@ -10,7 +10,7 @@
 .bg:before {
   content: '';
   position: absolute;
-  background: url('../../assets/bg1.jpg') no-repeat center top/cover;
+  background: url('../../assets/bg1.webp') no-repeat center top/cover;
   height: 100%;
   width: 100%;
   z-index: -1;

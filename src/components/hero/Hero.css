@@ -21,7 +21,7 @@
 }
 
 .hero-caption span {
-  color: rgb(197, 136, 24);
+  color: rgb(9, 169, 243);
 }
 
 .hero-caption h1 {
@@ -53,6 +53,21 @@
 	position: absolute;
 	top: 0;
 	left: 0;
+}
+
+
+.hero-btn button {
+  background-color: var(--secondary-color);
+  padding: .5rem 1.5rem;
+  text-transform: uppercase;
+  font-size: 1rem;
+  border-radius: .4rem;
+  border: none;
+}
+
+.hero-btn button:hover {
+  background-color: white;
+  color: var(--secondary-color);
 }
 
 /* images using CSS */

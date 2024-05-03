@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { FaBars, FaTimes } from 'react-icons/fa'
 import {NavLink, Link} from 'react-router-dom'
-import logo from '../../assets/nav-logo.png'
+import logo from '../../assets/nav-logo-blue.png'
 import {AiOutlineCaretDown } from "react-icons/ai";
 import Topbar from '../../components/topbar/Topbar'
 
