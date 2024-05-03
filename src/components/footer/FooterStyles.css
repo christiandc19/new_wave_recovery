@@ -29,11 +29,24 @@
     align-items: center;
 }
 
+.logo-footer {
+    width: 160px;
+    z-index: 2;
+  }
+  
+  .logo-footer img {
+    width: 100%;
+    padding: 10px;
+  }
+  
+
 .footer .top .footer-icon {
     font-size: 3rem;
     margin-right: 1rem;
     color: white;
     cursor: pointer;
+    margin: auto;
+    height: 100%;
 }
 
 .footer h1 {

@@ -56,7 +56,7 @@ const ImageSlider = ({ images }) => {
 
                 <div className='slider-btn'>
                     <LinkRoll activeClass="active" to="top" spy={true} smooth={true} duration={500}>
-                      <Link to="/sober-living">
+                      <Link to="/contact">
                         <button>Schedule A Tour</button>
                       </Link>
                     </LinkRoll>
