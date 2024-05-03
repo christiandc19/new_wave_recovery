@@ -118,6 +118,13 @@
   }
 }
 
+@media screen and (max-width: 600px) {
+  .imagesContainer {
+    height: 100vh;
+    box-shadow: rgba(0, 0, 0, 0) 10px 10px 10px;
+  }
+}
+
 @media screen and (max-width: 450px) {
   .hero-caption h1 {
     font-size: 2rem;

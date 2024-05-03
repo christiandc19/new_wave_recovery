@@ -59,3 +59,9 @@
 }
 
 }
+
+@media screen and (max-width: 600px) {
+    .HuntingtonBeach {
+        height: 100vh;
+      }
+  }

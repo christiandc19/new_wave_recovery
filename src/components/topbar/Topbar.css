@@ -17,6 +17,10 @@
     font-size: 14px;
 }
 
+.topbar .topbar-content a {
+    color: white;
+}
+
 .topbar .bar-box1 {
     width: 25rem;
     border-right: 1px solid rgba(229, 175, 88, 0.438);
@@ -29,6 +33,11 @@
 
 .topbar .bar-box3 a {
     color: white;
+}
+
+.topbar .topbar-content a:hover {
+    color: var(--secondary-color);
+    font-weight: normal;
 }
 
 .topbar .bar-box3 a:hover {
