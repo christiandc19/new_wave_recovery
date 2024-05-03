@@ -1,7 +1,7 @@
 import React from 'react'
 import {Link} from 'react-router-dom'
 import { BsFillArrowUpCircleFill } from 'react-icons/bs'
-import logo from '../../assets/nav-logo.png'
+import logo from '../../assets/nav-logo-wh.png'
 import './FooterStyles.css'
 
 import { Link as LinkRoll } from 'react-scroll'
