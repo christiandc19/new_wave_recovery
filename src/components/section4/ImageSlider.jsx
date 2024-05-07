@@ -48,7 +48,7 @@ const ImageSlider = ({ images }) => {
         <div className='image-slider-right'>
             <h1>What Sets Us Apart</h1>
             <p>At New Wave Recovery, we understand the challenges of overcoming addiction and rebuilding your life. Nestled in the vibrant coastal city of Huntington Beach, our sober living home offers a supportive environment where you can embark on your journey to lasting sobriety.</p>
-            <ul>
+            <ul> <br/>
               <li><span><AiOutlineCheck/> </span>Experienced Staff</li>
               <li><span><AiOutlineCheck/> </span>Structured Environment</li>
               <li><span><AiOutlineCheck/> </span>Holistic Approach</li>
@@ -56,8 +56,8 @@ const ImageSlider = ({ images }) => {
 
                 <div className='slider-btn'>
                     <LinkRoll activeClass="active" to="top" spy={true} smooth={true} duration={500}>
-                      <Link to="/contact">
-                        <button>Schedule A Tour</button>
+                      <Link to="/huntington-beach">
+                        <button>Learn More</button>
                       </Link>
                     </LinkRoll>
                 </div>

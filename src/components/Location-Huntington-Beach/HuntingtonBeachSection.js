@@ -3,6 +3,9 @@ import ContactForm from '../contact/ContactForm'
 import Fade from 'react-reveal/Fade';
 
 import './HuntingtonBeachSection.css'
+import ImageHeader from '../../assets/huntington1.webp'
+
+
 
 const HuntingtonBeachSection = () => {
   return (
@@ -12,6 +15,31 @@ const HuntingtonBeachSection = () => {
                 <p>Recover in a safe community of healing and accountability at our Huntington Beach location. You’ll find all the tools, guidance, and resources you need to return to your normal life among the comfort and amenities of beachside living.
                 </p>
 </div>
+
+
+
+
+<div className='huntington-flex container'>
+
+    <div className='huntington-left'>
+        <img src={ImageHeader} loading="lazy" alt="Huntington Home" />
+    </div>
+
+    <div className='huntington-right'>
+      <p>Welcome to our Huntington Beach Sober Living Homes, where hope, healing, and happiness converge. Our serene and supportive environment offers a haven for individuals seeking to embrace a life free from addiction. Nestled amidst the beauty of Huntington Beach, our homes provide the ideal setting for your journey toward lasting recovery.
+                </p>
+      <h5>Our Location:</h5>
+        <p>ituated in the coastal paradise of Huntington Beach, our sober living homes offer a tranquil escape from the stresses of everyday life. With miles of pristine beaches, picturesque parks, and vibrant cultural attractions just moments away, residents have ample opportunities to reconnect with nature, explore new interests, and forge meaningful connections. Whether you're catching a breathtaking sunset, riding the waves, or simply savoring the beauty of your surroundings, Huntington Beach provides the perfect backdrop for your journey of self-discovery.</p>
+    </div>
+
+</div>
+
+
+
+
+
+
+
 
               <div className="NorthCitrus-section-header container">
                 <h2>Retreat</h2>

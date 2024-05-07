@@ -16,4 +16,54 @@
   text-align: center;
 }
 
+.huntington-flex {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
 
+.huntington-left {
+  width: 500px;
+  padding: 1rem;
+  margin: auto;
+}
+
+.huntington-left img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.huntington-right {
+  width: 50%;
+  padding: 1rem;
+  margin: auto;
+}
+
+.huntington-right p {
+  font-size: 16px;
+  text-align: justify;
+}
+
+.huntington-right h5 {
+  font-size: 16px;
+  padding: .5rem 0;
+  color: rgb(192, 123, 33);
+}
+
+@media screen and (max-width:940px) {
+  .huntington-flex {
+    flex-wrap: wrap;
+  }
+
+  .huntington-right {
+    width: 100%;
+  }
+
+  .huntington-left {
+    width: 100%;
+  }
+
+  .huntington-right h5 {
+    text-align: center;
+  }
+}
