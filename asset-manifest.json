@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/new_wave_recovery/static/css/main.b8210bf3.css",
-    "main.js": "/new_wave_recovery/static/js/main.80689d5a.js",
+    "main.css": "/new_wave_recovery/static/css/main.89b6ccb7.css",
+    "main.js": "/new_wave_recovery/static/js/main.4673c10f.js",
     "static/media/hero2.jpg": "/new_wave_recovery/static/media/hero2.a30a3d8ff3ccd908f493.jpg",
     "static/media/treatment-2.jpg": "/new_wave_recovery/static/media/treatment-2.e9bc74dc2acb65f4d66c.jpg",
     "static/media/nav-logo-wh.png": "/new_wave_recovery/static/media/nav-logo-wh.c6320ab26aaed4841056.png",
-    "static/media/nav-logo-black.png": "/new_wave_recovery/static/media/nav-logo-black.579e1f0129ab30617a27.png",
+    "static/media/nav-logo-black.png": "/new_wave_recovery/static/media/nav-logo-black.c70514639dbba3c56088.png",
     "static/media/detox-section1.webp": "/new_wave_recovery/static/media/detox-section1.2f4c946120939c339d3b.webp",
     "static/media/treatment-3.jpg": "/new_wave_recovery/static/media/treatment-3.186527d3fa03228ae90d.jpg",
     "static/media/cocaine-section1.webp": "/new_wave_recovery/static/media/cocaine-section1.eecc181869d8d3dbbbc2.webp",
@@ -63,11 +63,11 @@
     "static/media/aetna.webp": "/new_wave_recovery/static/media/aetna.403dd7aefa28abeaab83.webp",
     "static/media/horizon.webp": "/new_wave_recovery/static/media/horizon.cbfbfc8b21eb86573ce8.webp",
     "index.html": "/new_wave_recovery/index.html",
-    "main.b8210bf3.css.map": "/new_wave_recovery/static/css/main.b8210bf3.css.map",
-    "main.80689d5a.js.map": "/new_wave_recovery/static/js/main.80689d5a.js.map"
+    "main.89b6ccb7.css.map": "/new_wave_recovery/static/css/main.89b6ccb7.css.map",
+    "main.4673c10f.js.map": "/new_wave_recovery/static/js/main.4673c10f.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8210bf3.css",
-    "static/js/main.80689d5a.js"
+    "static/css/main.89b6ccb7.css",
+    "static/js/main.4673c10f.js"
   ]
 }
