@@ -123,11 +123,11 @@
 
 
     .navbar li {
-      color: #f3ecec;
+      color: var(--primary-color);
     }
 
     .navbar li a {
-      color: #f3ecec;
+      color: var(--primary-color);
     }
 
     .navbar .nav-menu {
@@ -138,7 +138,7 @@
         top: 0;
         left:-100%;
         justify-content: center;
-        background: var(--primary-color);
+        background: white;
         transition: 0.5s ease-in;
     }
 

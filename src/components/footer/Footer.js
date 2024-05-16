@@ -66,7 +66,7 @@ const Footer = () => {
                     </div>
 
                 </div>
-                <p className='copyright'><p>&copy; 2023 NEW WAVE RECOVERY. ALL RIGHTS RESERVED.</p></p>
+                <p className='copyright'><p>&copy; 2024 NEW WAVE RECOVERY. ALL RIGHTS RESERVED.</p></p>
 
 
             </div>
